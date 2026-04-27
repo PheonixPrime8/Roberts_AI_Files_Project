@@ -1,0 +1,15 @@
+ai_text_summarizer/
+│
+├── app.py
+├── requirements.txt
+├── .env
+├── .gitignore
+├── PRD.md
+├── wireframe.txt
+├── submission_details.txt
+│
+├── templates/
+│   └── index.html
+│
+└── static/
+    └── style.css
