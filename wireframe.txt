@@ -1,0 +1,11 @@
+------------------------------------------------
+|          AI-Powered Text Summarizer           |
+------------------------------------------------
+| Upload TXT File: [ Choose File ] [Summarize]  |
+------------------------------------------------
+| Original Text                                 |
+| [ Uploaded file content appears here        ] |
+------------------------------------------------
+| AI Summary                                    |
+| [ Groq-generated summary appears here       ] |
+------------------------------------------------
